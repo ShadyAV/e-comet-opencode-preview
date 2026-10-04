@@ -1,0 +1,8 @@
+{
+  "name": "e-comet-opencode-preview",
+  "version": "0.0.1-preview.1",
+  "type": "module",
+  "main": "./opencode/index.mjs",
+  "exports": "./opencode/index.mjs",
+  "license": "Apache-2.0"
+}

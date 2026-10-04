@@ -1,0 +1,8 @@
+{
+  "$schema": "https://opencode.ai/config.json",
+  "plugins": [
+    "-e-comet",
+    "github:ShadyAV/e-comet-opencode-preview#main"
+  ],
+  "snapshots": false
+}
