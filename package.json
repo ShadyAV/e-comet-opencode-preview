@@ -1,6 +1,6 @@
 {
   "name": "@avshady/e-comet-opencode",
-  "version": "0.0.1-preview.5",
+  "version": "0.0.1-preview.6",
   "type": "module",
   "main": "./opencode/index.mjs",
   "exports": "./opencode/index.mjs",
