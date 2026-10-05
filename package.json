@@ -1,6 +1,6 @@
 {
   "name": "@avshady/e-comet-opencode",
-  "version": "0.0.1-preview.4",
+  "version": "0.0.1-preview.5",
   "type": "module",
   "main": "./opencode/index.mjs",
   "exports": "./opencode/index.mjs",
@@ -95,6 +95,7 @@
     "opencode/index.mjs",
     "opencode/names.mjs",
     "opencode/transcript.mjs",
+    "opencode/update-worker.mjs",
     "opencode/workspace.mjs",
     "skills/e-comet-doctor/SKILL.md",
     "skills/e-comet-doctor/references/claude.md",
