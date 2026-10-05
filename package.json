@@ -1,6 +1,6 @@
 {
   "name": "@avshady/e-comet-opencode",
-  "version": "0.0.1-preview.6",
+  "version": "0.0.1-preview.7",
   "type": "module",
   "main": "./opencode/index.mjs",
   "exports": "./opencode/index.mjs",
@@ -92,6 +92,7 @@
     "mcp/src/websocket.mjs",
     "mcp/src/xlsx-package.mjs",
     "opencode/adapter.mjs",
+    "opencode/connect-worker.mjs",
     "opencode/index.mjs",
     "opencode/names.mjs",
     "opencode/transcript.mjs",
